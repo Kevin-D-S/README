@@ -1,0 +1,93 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "787d7f08-90c0-421b-aed6-2aa4e10edcef",
+   "metadata": {},
+   "source": [
+    "# My Jupyter Notebook on IBM Watson Studio"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "5b23ba53-23ce-4751-a9f7-ac73090bf1a4",
+   "metadata": {},
+   "source": [
+    "**Kevin**\n",
+    "\n",
+    "Business Analyst"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "549147a9-178e-4325-bd72-24013e4a437b",
+   "metadata": {},
+   "source": [
+    "*I am interested in data science because I am looking to expand in my role as a business analyst.*"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "7bba3534-e1a3-478b-9fa4-2ae32a8f7e9a",
+   "metadata": {},
+   "source": [
+    "### The following code will multiply 5 by 5:"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 3,
+   "id": "fd9b3336-01fc-4ad5-81dd-a5326c458a12",
+   "metadata": {},
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "25"
+      ]
+     },
+     "execution_count": 3,
+     "metadata": {},
+     "output_type": "execute_result"
+    }
+   ],
+   "source": [
+    "5 * 5"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "id": "ead256b1-0def-4c75-aa85-98a5b40bf085",
+   "metadata": {},
+   "source": [
+    "| 1 | 2 | 3 | 4 | 5 |\n",
+    "| - | - | - | - | - |\n",
+    "| 2 | 4 | 6 | 8 | 10 |\n",
+    "| 3 | 6 | 9 | 12 | 15 |\n",
+    "| 4 | 8 | 12 | 16 | 20 |\n",
+    "| 5 | 10 | 15 | 20 | 25 |"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python",
+   "language": "python",
+   "name": "conda-env-python-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
